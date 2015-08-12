@@ -16,7 +16,7 @@ Previous Tag: v0.1.1
 
 ### Installation
 
-Simply copy this file into your `lib/tasks` directory.
+Simply copy `release_notes.rake` into your `lib/tasks` directory.
 
 
 ### Usage
